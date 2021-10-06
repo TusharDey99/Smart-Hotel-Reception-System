@@ -1,0 +1,33 @@
+These are the options avaiable for three person:
+
+1. Three Single Bed
+   Separate Room for Entertainment and Workstation
+   Double Washroom
+   AC
+6000TK Per Day. 
+
+2. One Double Bed and One Single Bed
+   Separate Room for Workstation
+   Double Bathroom
+   AC
+5000TK Per Day. 
+
+3. Tow Double Bed
+   Double Bathroom
+   Workstation
+   Non-AC
+4000TK Per Day. 
+
+4. Duble Bed Room
+   One with a Double Bed and other with a Single Bed
+   Double Attached Bathroom
+   Separate Workstation
+   AC
+8000TK Per Day. 
+
+5. Double Bed Room
+   Both with Double Beds
+   Two Attached Bathroom
+   Separate Workstation with Common Bathroom
+   AC
+10,000TK Per Day.

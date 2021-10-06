@@ -1,0 +1,29 @@
+These are the options avaiable for two person:
+
+1. Two Single Bed
+   Large TV
+   No Workstation
+   Bathroom
+   Non-AC
+3499 TK Per Day.
+
+2. Two Single Bed
+   Large TV
+   Large Workstation
+   Bathroom- AC
+   Attached Balcony
+4899 TK Per Day.
+
+3. Double Bed
+   Large TV
+   Separate Room for Workstation
+   Bathroom
+   AC
+5000 TK Per Day.
+
+4. King Size Bed
+   Large TV
+   Separate Room for Workstation and Entertainment
+   Bathroom- Attached Balcony
+   AC
+5999 TK Per Day.

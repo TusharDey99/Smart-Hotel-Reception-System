@@ -1,0 +1,34 @@
+These are the options avaiable for four person:
+
+1. Two Double Bed
+   Separate Room for Entertainment and Workstation
+   Double Washroom
+   AC
+6000TK Per Day. 
+
+2. Two Double Bed
+   Separate Room for Workstation
+   Double Bathroom
+   AC
+4970TK Per Day. 
+
+3. Tow Double Bed
+   Double Bathroom
+   Workstation
+   Non-AC
+3999TK Per Day. 
+
+4. Duble Bed Room
+   Both with Double Beds
+   Double Attached Bathroom
+   Separate Workstation
+   AC
+8990TK Per Day. 
+
+5. Double Bed Room
+   Both with Double Beds
+   Two Attached Bathroom
+   Separate Workstation with Common Bathroom
+   Entertainment Section
+   AC
+9999TK Per Day.
